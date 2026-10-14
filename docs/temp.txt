@@ -2,5 +2,5 @@ This file is not previewable inline.
 
 - Path: `_publish_alice-core/docs/framework-structure.png`
 - Type: `image/png`
-- Size: 294,528 bytes
-- Updated: 2026-10-14T15:08:40.945Z
+- Size: 1,366,822 bytes
+- Updated: 2026-06-11T15:51:41.000Z
